@@ -114,6 +114,7 @@ These detailed features collectively contribute to a comprehensive and efficient
 
 # This project idea is implememted by classical Waterfall Model
 Discription about Software Development Life Cycle (SDLC) for the "University Organization Management System" Using Waterfall Model :
+![image](https://github.com/mbs57/Project/assets/150066741/01e43fe7-d37e-418f-92b4-346b23d40468)
 
 ## 1. Requirements Gathering:
    - Begin by defining and documenting the specific requirements for the system, encompassing features such as providing information about the organization, membership form creation, data storage, and ensuring accessibility.
